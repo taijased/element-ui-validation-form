@@ -87,7 +87,6 @@ export default {
                 if (valid) {
                     const idBoard = "5c35c65af44c5f13f13fcc65"
                     const idList = "5c35c68a3a95a04f8e7f0acd"
-                    // const token = "5b617460cbe6b46dce41e7b7/0iYUVbjHi0wzocZgqhskhv4y11zqqYTuqXhmf1W5O56NXtHroibS4F54ntXG78Bj"
                     let description = `Форма: ${this.title}\n Имя: ${this.ruleForm.name}\n Телефон: ${this.ruleForm.phone}\n E-mail: ${this.ruleForm.email}`;
                     let data = {
                         "name":`Запрос с сайта ${window.location.href}`,
