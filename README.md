@@ -1,8 +1,8 @@
 # Использование API Trello c помощью Vue
 
-## Live Demo
+## Live Demo [here](https://vue-api-trello.firebaseapp.com/).
 
-*[here](https://vue-api-trello.firebaseapp.com/).
+
 
 ## config ApiTrello.js 
 
