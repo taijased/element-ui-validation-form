@@ -7,6 +7,11 @@
     "build": "vue-cli-service build"
   },
   "dependencies": {
+    "axios": "^0.18.0",
+    "element-ui": "^2.4.11",
+    "inputmask": "^4.0.5",
+    "pug": "^2.0.3",
+    "pug-plain-loader": "^1.0.0",
     "vue": "^2.5.21"
   },
   "devDependencies": {
